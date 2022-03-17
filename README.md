@@ -1,5 +1,5 @@
 ### Olá! eu sou JonasGX
-- 🔭 Hoje trabalho como estagiário na Câmara Municipal de Ribeirão Pires
+- 🔭 Atualmente estagiando como TI na Câmara Municipal de Ribeirão Pires.
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: jonasgomesxavier0706@gmail.com
 
