@@ -1,5 +1,5 @@
 ### Olá! eu sou JonasGX
-- 🔭 Atualmente estagiando na área de TI na Câmara Municipal da EstÂncia Turística de Ribeirão Pires.
+- 🔭 Atualmente estagiando em Desenvolvimento de Software no Itaú Unibanco
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: jonasgomesxavier0706@gmail.com
 
