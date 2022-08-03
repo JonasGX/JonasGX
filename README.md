@@ -1,9 +1,4 @@
-### Olá! Me chamo Jonas Gomes Xaviert tenho 20 anos, atualmente sou estudante na faculdade Impacta na área de tecnologia da informação, o curso que me despertou o interesse devido os seus valores e também ao aprendizado muito importante nos dias atuais sendo: Análise e Desenvolvimento de Sistemas.
-
-Atualmente estagiando no Itaú Unibanco como Desenvolvedor de Software na qual faço parte do departamento de contas e tarifas.
-
-Fui estagiário na área da Tecnologia na Câmara Municipal de Estância Turística de Ribeirão Pires no setor de redes e suporte.
-
+- Estagiário em Desenvolvimento de Software no Banco Itaú
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: jonasgomesxavier0706@gmail.com
 
