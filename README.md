@@ -9,12 +9,6 @@
 - Sou Engenheiro de Dados, responsável pela construção e sustentação de pipelines para Modelos Preditivos voltados à Recuperação PF. Minha experiência inclui projetos de Machine Learning, utilizando serviços da Amazon Web Services (AWS), Python, SQL, Kedro, Terraform e ferramentas de versionamento como Git, GitHub e GitLab.
 
 - Formado em Análise e Desenvolvimento de Sistemas
-
-<div align="center">
-  <a href="https://github.com/JonasGX">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonasGX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasGX&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div style="display: inline_block"><br>
   <!-- Linguagens -->
@@ -30,11 +24,18 @@
 </div>
 
 ----------------
-  # Contato 📫 
+# Contato 📫 
 <div>
   <a href="https://www.instagram.com/jonas_gomes.x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonasgomesxavier0706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonas-gomes-xavier-5305011a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+----------------
+<div align="center">
+  <a href="https://github.com/JonasGX">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonasGX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasGX&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ![Snake animation](https://github.com/JonasGX/JonasGX/blob/output/github-contribution-grid-snake.svg?raw=true)
