@@ -6,10 +6,9 @@
 
 - Sempre disposto a encarar novos desafios em busca de conhecimentos, tendo como objetivo um ótimo potencial no mercado de trabalho. Formado em Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia.
 
-- Sou Engenheiro de Dados, responsável pela construção e sustentação de pipelines para Modelos Preditivos voltados à Recuperação PF. Minha experiência inclui projetos de Machine Learning, utilizando serviços da Amazon Web Services (AWS), Python, SQL, Kedro, Terraform e - ferramentas de versionamento como Git, GitHub e GitLab.
+- Sou Engenheiro de Dados, responsável pela construção e sustentação de pipelines para Modelos Preditivos voltados à Recuperação PF. Minha experiência inclui projetos de Machine Learning, utilizando serviços da Amazon Web Services (AWS), Python, SQL, Kedro, Terraform e ferramentas de versionamento como Git, GitHub e GitLab.
 
-- 🌱![Uploading image.png…]()
- Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 
   # Contato
 - 📫 Contate-me no email: jonasgomesxavier0706@gmail.com
