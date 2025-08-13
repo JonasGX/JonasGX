@@ -15,7 +15,7 @@
   <img align="center" alt="Jonas-SQL" height="30" width="40" src="https://img.icons8.com/ios-filled/50/4479A1/sql.png">
   
   <!-- Cloud e Data -->
-  <img align="center" alt="Jonas-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=40" />
   <img align="center" alt="Jonas-Spark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">
 
   <!-- Ferramentas -->
