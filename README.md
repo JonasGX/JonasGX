@@ -1,6 +1,7 @@
-- Estagiário em Desenvolvimento de Software no Banco Itaú
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- Engenheiro de dados no Banco Itaú
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: jonasgomesxavier0706@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/JonasGX">
