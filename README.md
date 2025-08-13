@@ -1,4 +1,7 @@
-- Itau Unibanco | Engenheiro de dados | Cloud AWS | SQL | Python | Git | GitHub | Democratização de Dados | Data Mesh
+  -----------------------------------------------------------------------------------------------------------------------
+  | Itau Unibanco | Engenheiro de dados | Cloud AWS | SQL | Python | Git | GitHub | Democratização de Dados | Data Mesh |
+  -----------------------------------------------------------------------------------------------------------------------
+  
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: jonasgomesxavier0706@gmail.com
 
