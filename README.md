@@ -8,10 +8,10 @@
 
 - Sou Engenheiro de Dados, responsável pela construção e sustentação de pipelines para Modelos Preditivos voltados à Recuperação PF. Minha experiência inclui projetos de Machine Learning, utilizando serviços da Amazon Web Services (AWS), Python, SQL, Kedro, Terraform e ferramentas de versionamento como Git, GitHub e GitLab.
 
-- 🌱 Formado em Análise e Desenvolvimento de Sistemas
+- Formado em Análise e Desenvolvimento de Sistemas
 
-  # Contato
-- 📫 Contate-me no email: jonasgomesxavier0706@gmail.com
+  # Contato 📫 
+- Contate-me no email: jonasgomesxavier0706@gmail.com
 
 
 <div align="center">
@@ -32,9 +32,8 @@
   <!-- Ferramentas -->
   <img align="center" alt="Jonas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  
-## 
- 
+
+----------------
 <div>
   <a href="https://www.instagram.com/jonas_gomes.x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonasgomesxavier0706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
